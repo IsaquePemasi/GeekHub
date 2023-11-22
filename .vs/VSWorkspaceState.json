@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\GeekHub"
+    "\\GeekHub",
+    "\\GeekHub\\BlazorMangas",
+    "\\GeekHub\\BlazorMangas\\Pages",
+    "\\GeekHub\\BlazorMangas\\Pages\\Catalogo"
   ],
-  "SelectedNode": "\\GeekHub\\BlazorMangas.sln",
+  "SelectedNode": "\\GeekHub\\BlazorMangas\\Pages\\Catalogo\\ExibirMangas.razor",
   "PreviewInSolutionExplorer": false
 }
