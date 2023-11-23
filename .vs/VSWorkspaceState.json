@@ -6,8 +6,9 @@
     "\\GeekHub\\BlazorMangas\\Pages",
     "\\GeekHub\\BlazorMangas\\Pages\\Catalogo",
     "\\GeekHub\\BlazorMangas\\Pages\\Contato",
+    "\\GeekHub\\BlazorMangas\\Shared",
     "\\GeekHub\\BlazorMangas\\wwwroot"
   ],
-  "SelectedNode": "\\GeekHub\\BlazorMangas\\wwwroot\\index.html",
+  "SelectedNode": "\\GeekHub\\BlazorMangas\\Shared\\Spinner.razor",
   "PreviewInSolutionExplorer": false
 }
