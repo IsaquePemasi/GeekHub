@@ -1,12 +1,12 @@
 ﻿@page "/contato"
 
-<h3>Contato</h3>
+<PageTitle>Contato</PageTitle>
 
 <div class="text-center" cz-shortcut-listen="true">
     @*metodo para enviar a mensagem de contato, para o email do petamigo*@
     <form method="post" action="https://formsubmit.co/isaquepetamigo@gmail.com">
         <div asp-validation-summary="All" class="text-danger"></div>
-        <img class="mb-4" src="~/images/icon.png" width="72" height="72" alt="logo petamigo">
+        <img class="mb-4" src="./icon-192.png" width="72" height="72" alt="logo petamigo">
         <h1 class="h3 mb-3 font-weight-normal">Contato</h1>
         <div class="form-group">
             <input type="text" name="name" class="form-control" placeholder="Digite seu nome" required />
