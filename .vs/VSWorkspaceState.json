@@ -4,11 +4,12 @@
     "\\GeekHub",
     "\\GeekHub\\BlazorMangas",
     "\\GeekHub\\BlazorMangas\\Pages",
+    "\\GeekHub\\BlazorMangas\\Pages\\Autentica",
     "\\GeekHub\\BlazorMangas\\Pages\\Catalogo",
     "\\GeekHub\\BlazorMangas\\Pages\\Contato",
     "\\GeekHub\\BlazorMangas\\Shared",
     "\\GeekHub\\BlazorMangas\\wwwroot"
   ],
-  "SelectedNode": "\\GeekHub\\BlazorMangas\\Shared\\DisplayMessage.razor",
+  "SelectedNode": "\\GeekHub\\BlazorMangas\\Pages\\Autentica\\NotAuthorized.razor",
   "PreviewInSolutionExplorer": false
 }
