@@ -100,7 +100,7 @@ a, .btn-link {
         content: var(--blazor-load-percentage-text, "Loading");
     }
 
-/*ChatGPT*/
+/*ChatGPTW*/
 .messages {
     height: 400px;
     width: 200%;
@@ -158,4 +158,8 @@ a, .btn-link {
     background-color: rgb(255, 30, 30);
     border: none;
     border-radius: 0 񁒸0px�20px;
+}
+/*ChatGPT*/
+.bg-chat{
+    background-color:lightgray;
 }
