@@ -4,12 +4,13 @@
     "\\GeekHub",
     "\\GeekHub\\BlazorMangas",
     "\\GeekHub\\BlazorMangas\\Pages",
-    "\\GeekHub\\BlazorMangas\\Pages\\Autentica",
     "\\GeekHub\\BlazorMangas\\Pages\\Catalogo",
     "\\GeekHub\\BlazorMangas\\Pages\\Contato",
+    "\\GeekHub\\BlazorMangas\\Pages\\Mangas",
     "\\GeekHub\\BlazorMangas\\Shared",
-    "\\GeekHub\\BlazorMangas\\wwwroot"
+    "\\GeekHub\\BlazorMangas\\wwwroot",
+    "\\GeekHub\\BlazorMangas\\wwwroot\\css"
   ],
-  "SelectedNode": "\\GeekHub\\BlazorMangas\\Pages\\Contato\\Contato.razor",
+  "SelectedNode": "\\GeekHub\\BlazorMangas\\Pages\\Index.razor",
   "PreviewInSolutionExplorer": false
 }
