@@ -1,4 +1,4 @@
-﻿@* @page "/geekGPT" *@
+﻿@page "/geekGPT2" 
 
 @using Newtonsoft.Json
 @using System.Text
@@ -51,7 +51,7 @@
         messages.Add(message);
 
         // Replace [INSERT_YOUR_OWN_API_KEY] with a valid OpenAI API key
-        var apiKey = "ERZwew8fNO6yUn7r5jT3BlbkFJmpn9YVu61CPFwHiorDYR";
+        var apiKey = "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";
         Http.DefaultRequestHeaders.Add("Authorization", $"Bearer {apiKey}");
 
         // JSON content for the API call

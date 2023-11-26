@@ -1,8 +1,10 @@
 ﻿@page "/geekGPT"
+@using BlazorMangas.Services.AnswerGenerator
 
+@inject IAnswerGeneratorService AnswerGeneratorService
 <h3>GeekGPT</h3>
 
-<EditForm @Model="@assistant">
+<EditForm Model="@assistant">
     <textarea class="form-control" id="txt" @bind="assistant.Prompt"
     style="width:500px;" placeholder="Enter your prompt here" />
     <br/>
@@ -30,10 +32,13 @@
     List<string> answers = new List<string>();
     private async void Generate()
     {
-        
+        var answer = await AnswerGeneratorService.GenerateAnswer(assistant.Prompt);
+        answers.Add(answer);
+        StateHasChanged();
     }
     private async void Clear()
     {
-
+        answers = new List<string>();
+        assistant.Prompt = string.Empty;
     }
 }
