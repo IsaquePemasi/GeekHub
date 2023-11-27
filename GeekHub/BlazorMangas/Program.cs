@@ -1,6 +1,5 @@
 using Blazored.LocalStorage;
 using BlazorMangas;
-using BlazorMangas.Services.AnswerGenerator;
 using BlazorMangas.Services.Api;
 using BlazorMangas.Services.Autentica;
 using Microsoft.AspNetCore.Components.Authorization;
@@ -26,5 +25,5 @@ builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<ICategoriaService, CategoriaService>();
 builder.Services.AddScoped<IMangaService, MangaService>();
 builder.Services.AddScoped<IFileUploadService, FileUploadService>();
-builder.Services.AddScoped<IAnswerGeneratorService, AnswerGeneratorService>();
+
 await builder.Build().RunAsync();

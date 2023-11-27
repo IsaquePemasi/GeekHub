@@ -5,12 +5,11 @@
     "\\GeekHub\\BlazorMangas",
     "\\GeekHub\\BlazorMangas\\Pages",
     "\\GeekHub\\BlazorMangas\\Pages\\Contato",
-    "\\GeekHub\\BlazorMangas\\Pages\\GeekGPT",
     "\\GeekHub\\BlazorMangas\\Pages\\Mangas",
     "\\GeekHub\\BlazorMangas\\Shared",
     "\\GeekHub\\BlazorMangas\\wwwroot",
     "\\GeekHub\\BlazorMangas\\wwwroot\\css"
   ],
-  "SelectedNode": "\\GeekHub\\BlazorMangas\\Pages\\GeekGPT\\GeekGPT.razor",
+  "SelectedNode": "\\GeekHub\\BlazorMangas.sln",
   "PreviewInSolutionExplorer": false
 }
