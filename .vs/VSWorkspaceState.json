@@ -6,10 +6,11 @@
     "\\GeekHub\\BlazorMangas\\Pages",
     "\\GeekHub\\BlazorMangas\\Pages\\Contato",
     "\\GeekHub\\BlazorMangas\\Pages\\Mangas",
+    "\\GeekHub\\BlazorMangas\\Pages\\Parceiros",
     "\\GeekHub\\BlazorMangas\\Shared",
     "\\GeekHub\\BlazorMangas\\wwwroot",
     "\\GeekHub\\BlazorMangas\\wwwroot\\css"
   ],
-  "SelectedNode": "\\GeekHub\\BlazorMangas\\Program.cs",
+  "SelectedNode": "\\GeekHub\\BlazorMangas\\Pages\\Parceiros\\Parceiros.razor",
   "PreviewInSolutionExplorer": false
 }
