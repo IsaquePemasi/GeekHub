@@ -4,13 +4,9 @@
     "\\GeekHub",
     "\\GeekHub\\BlazorMangas",
     "\\GeekHub\\BlazorMangas\\Pages",
-    "\\GeekHub\\BlazorMangas\\Pages\\Contato",
-    "\\GeekHub\\BlazorMangas\\Pages\\Mangas",
-    "\\GeekHub\\BlazorMangas\\Pages\\Parceiros",
-    "\\GeekHub\\BlazorMangas\\Shared",
-    "\\GeekHub\\BlazorMangas\\wwwroot",
-    "\\GeekHub\\BlazorMangas\\wwwroot\\css"
+    "\\GeekHub\\BlazorMangas\\Pages\\Politicas",
+    "\\GeekHub\\BlazorMangas\\Shared"
   ],
-  "SelectedNode": "\\GeekHub\\BlazorMangas\\Pages\\Parceiros\\Parceiros.razor",
+  "SelectedNode": "\\GeekHub\\BlazorMangas\\Pages\\Politicas\\Politicas.razor",
   "PreviewInSolutionExplorer": false
 }
