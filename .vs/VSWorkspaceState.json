@@ -3,10 +3,9 @@
     "",
     "\\GeekHub",
     "\\GeekHub\\BlazorMangas",
-    "\\GeekHub\\BlazorMangas\\Pages",
-    "\\GeekHub\\BlazorMangas\\Pages\\Politicas",
-    "\\GeekHub\\BlazorMangas\\Shared"
+    "\\GeekHub\\BlazorMangas\\wwwroot",
+    "\\GeekHub\\BlazorMangas\\wwwroot\\css"
   ],
-  "SelectedNode": "\\GeekHub\\BlazorMangas\\Shared\\NavMenu.razor",
+  "SelectedNode": "\\GeekHub\\BlazorMangas\\wwwroot\\css\\app.css",
   "PreviewInSolutionExplorer": false
 }
