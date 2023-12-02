@@ -8,7 +8,9 @@
 <img src="./GeekHub/BlazorMangas/wwwroot/cadastrar.png" align="center">
 
 - Você também pode catalogar mangás e/ou HQs, pelas suas categorias.</br> 
-- 
+
+<!-- <img src="./GeekHub/BlazorMangas/wwwroot/cadastrar.png" align="center"> -->
+
 - Se você é um amante da cultura Geek e deseja catalogar/gerenciar suas próprias HQs/mangás em nosso GeekHub, basta criar uma conta utilizando seu e-mail e senha para acessar a área de cadastrar e catalogar mangás e/ou HQs.</br>
 
 ## Vídeo Apresentação do Projeto
