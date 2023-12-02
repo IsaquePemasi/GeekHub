@@ -1,33 +1,32 @@
-# RotomDex
+# GeekHub
 
 ## Sobre o Projeto 
-- O RotomDex, faz parte de um conjunto de três projetos desenvolvidos para a avaliação final da Academia de .NET 2023 da Atos juntamente com a Universidade Franciscana (UFN). O projeto Final consiste de três aplicações (Front-End, Back-End, Bot para verificar se a aplicação está Health) que trabalham em conjunto, neste repositório encontra-se a parte do Front-End do Projeto.
+- O GeekHub, faz parte de um conjunto de três projetos desenvolvidos para a avaliação final da 5ª Academia de .NET. O projeto Final consiste de três aplicações (Front-End, Back-End e IA, para fazer conexão com ChatGPT e Gerador de imagens) que trabalham em conjunto, neste repositório encontra-se a parte do Front-End do Projeto, feita com Blazor WebAssembly.
 
-- Neste projeto, você pode explorar a Pokedex, que apresenta os Pokémon originais da franquia, bem como as novas descobertas feitas por pesquisadores. Se você é um pesquisador Pokémon e deseja catalogar suas próprias descobertas em nossa Pokedex, basta criar uma conta utilizando seu e-mail e senha para acessar a área exclusiva dos pesquisadores. </br>
-Além disso, você pode fazer perguntas ao Chat GPT através do RotomDex. Com essa funcionalidade, o RotomDex possui um vasto conhecimento sobre o mundo Pokémon e está pronto para responder suas dúvidas.
+- Neste projeto, você pode catalogar, cadastrar, remover e editar novos mangás e/ou HQs, que apresenta dados como título, autor, descrição, editora, publicação, formato, número de páginas, data de publicação, origem, cor, preço, estoque, categoria e imagem.</br> Se você é um amante da cultura Geek e deseja catalogar/gerenciar suas próprias HQs/mangás em nosso GeekHub, basta criar uma conta utilizando seu e-mail e senha para acessar a área de cadastrar e catalogar mangás e/ou HQs.</br>
 
 ## Vídeo Apresentação do Projeto
-- [Apresentação do Projeto](https://youtu.be/S3BdYtB_ESc)
+- [Apresentação do Projeto]()
 
 ## Links para os outros projetos
-[Back-End (API)](https://github.com/isaque14/pokedex/tree/main)
+[Back-End (API)](https://github.com/IsaquePemasi/GeekHubApi)
 </br>
-[Bot](https://github.com/isaque14/RotomBot)
+[IAs](https://github.com/IsaquePemasi/GeekHubIA)
 
 ## Ferramentas e padrões de desenvolvimento utilizados
-- Angular
-- TypeScript
-- Bootstrap
+- C#
 - HTML5
 - CSS
-- SCSS
+- jQuery
+- Bootstrap
+- Blazor
+- Blazor WebAssembly
+- Microsoft ASP.NET
+- FormSubmit
 - Versionamento de Código com Git e Github
-- Padronização de Commits com Commitizen
 - Integração com o Back-End
 - Consumo de API
+- Consumo de IAs
 
-## Responsável pelo Projeto: Isaque Diniz da Silva
-#### Redes Sociais
-[Linkedin](https://www.linkedin.com/in/isaque-diniz-da-silva-a0773459/)
-</br>
-[GitHub](https://github.com/isaque14)
+<h2 align="center">Autor</h2>
+<a href="https://github.com/IsaquePemasi/"><img src="https://avatars.githubusercontent.com/u/76749511?v=4" width=115></a>
