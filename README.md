@@ -1,9 +1,11 @@
 # GeekHub
 
 ## Sobre o Projeto 
-- O GeekHub, faz parte de um conjunto de três projetos desenvolvidos para a avaliação final da 5ª Academia de .NET. O projeto Final consiste de três aplicações (Front-End, Back-End e IA, para fazer conexão com ChatGPT e Gerador de imagens) que trabalham em conjunto, neste repositório encontra-se a parte do Front-End do Projeto, feita com Blazor WebAssembly.
+- O GeekHub faz parte de um conjunto de três projetos, desenvolvidos para a avaliação final da 5ª Academia de .NET. O projeto Final consiste de três aplicações (Front-End, Back-End e IA, para fazer conexão com ChatGPT e Gerador de imagens) que trabalham em conjunto, neste repositório encontra-se a parte do Front-End do Projeto, feita com Blazor WebAssembly.
 
-- Neste projeto, você pode catalogar, cadastrar, remover e editar novos mangás e/ou HQs, que apresenta dados como título, autor, descrição, editora, publicação, formato, número de páginas, data de publicação, origem, cor, preço, estoque, categoria e imagem.</br> Se você é um amante da cultura Geek e deseja catalogar/gerenciar suas próprias HQs/mangás em nosso GeekHub, basta criar uma conta utilizando seu e-mail e senha para acessar a área de cadastrar e catalogar mangás e/ou HQs.</br>
+- Neste projeto, você pode catalogar, cadastrar, remover e editar novos mangás e/ou HQs, que apresenta dados como título, autor, descrição, editora, publicação, formato, número de páginas, data de publicação, origem, cor, preço, estoque, categoria e imagem.</br> 
+<img src="./GeekHub/BlazorMangas/wwwroot/cadastrar.png" align="center">
+- Se você é um amante da cultura Geek e deseja catalogar/gerenciar suas próprias HQs/mangás em nosso GeekHub, basta criar uma conta utilizando seu e-mail e senha para acessar a área de cadastrar e catalogar mangás e/ou HQs.</br>
 
 ## Vídeo Apresentação do Projeto
 - [Apresentação do Projeto]()
@@ -16,7 +18,7 @@
 ## Ferramentas e padrões de desenvolvimento utilizados
 - C#
 - HTML5
-- CSS
+- CSS3
 - jQuery
 - Bootstrap
 - Blazor
