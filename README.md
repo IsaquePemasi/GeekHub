@@ -13,6 +13,8 @@
 
 - Se você é um amante da cultura Geek e deseja catalogar/gerenciar suas próprias HQs/mangás em nosso GeekHub, basta criar uma conta utilizando seu e-mail e senha para acessar a área de cadastrar e catalogar mangás e/ou HQs.</br>
 
+<img src="./GeekHub/BlazorMangas/wwwroot/login.png" align="center"> 
+
 ## Vídeo Apresentação do Projeto
 - [Apresentação do Projeto]()
 
