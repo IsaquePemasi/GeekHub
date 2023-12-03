@@ -11,12 +11,12 @@
 </p>
 
 <p align="center">
-  <a href="##Sobre o Projeto ">Sobre</a> &#xa0; | &#xa0;  
-  <a href="#vídeo-apresentação-do-projeto">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
-  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/kacyos" target="_blank">Autor</a>
+  <a href="#sobre-o-projeto">Sobre</a> &#xa0; | &#xa0;  
+  <a href="#vídeo-apresentação-do-projeto">Vídeo</a> &#xa0; | &#xa0;
+  <a href="#links-para-os-outros-projetos">Links para os outros projetos</a> &#xa0; | &#xa0;
+  <a href="#ferramentas-e-padrões-de-desenvolvimento-utilizados">Ferramentas</a> &#xa0; | &#xa0;
+  <a href="#como-reproduzir">Passo a passo</a> &#xa0; | &#xa0;
+  <a href="#autor" target="_blank">Autor</a>
 </p>
 
 ## Sobre o Projeto 
