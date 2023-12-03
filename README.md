@@ -21,6 +21,7 @@
 - Bootstrap
 - Blazor
 - Blazor WebAssembly
+- Dotnet 7
 - Microsoft ASP.NET
 - FormSubmit
 - Versionamento de Código com Git e Github
