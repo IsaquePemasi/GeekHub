@@ -1,5 +1,24 @@
 # GeekHub
 
+<p align="center">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/IsaquePemasi/GeekHub?color=56BEB8">
+
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/IsaquePemasi/GeekHub?color=56BEB8">
+
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/IsaquePemasi/GeekHub?color=56BEB8">
+
+  <img alt="Licença" src="https://img.shields.io/github/license/IsaquePemasi/GeekHub?color=56BEB8">
+</p>
+
+<p align="center">
+  <a href="## Sobre o Projeto ">Sobre</a> &#xa0; | &#xa0;  
+  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
+  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
+  <a href="https://github.com/kacyos" target="_blank">Autor</a>
+</p>
+
 ## Sobre o Projeto 
 - O GeekHub faz parte de um conjunto de três projetos, desenvolvidos para a avaliação final da 5ª Academia de .NET. O projeto Final consiste de três aplicações (Front-End, Back-End e IA, para fazer conexão com ChatGPT e Gerador de imagens) que trabalham em conjunto, neste repositório encontra-se a parte do Front-End do Projeto, feita com Blazor WebAssembly.
 
