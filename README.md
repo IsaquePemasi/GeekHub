@@ -14,8 +14,8 @@
   <a href="#sobre-o-projeto">Sobre</a> &#xa0; | &#xa0;  
   <a href="#vídeo-apresentação-do-projeto">Vídeo</a> &#xa0; | &#xa0;
   <a href="#links-para-os-outros-projetos">Links para os outros projetos</a> &#xa0; | &#xa0;
-  <a href="#ferramentas-e-padrões-de-desenvolvimento-utilizados">Ferramentas</a> &#xa0; | &#xa0;
-  <a href="#como-reproduzir">Passo a passo</a> &#xa0; | &#xa0;
+  <a href="#ferramentas-e-padrões-de-desenvolvimento-utilizados">Ferramentas utilizadas</a> &#xa0; | &#xa0;
+  <a href="#como-reproduzir">Como reproduzir</a> &#xa0; | &#xa0;
   <a href="#autor" target="_blank">Autor</a>
 </p>
 
