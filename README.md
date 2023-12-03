@@ -43,7 +43,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 Clone o repositório que contém a aplicação Blazor WebAssembly. Você pode fazer isso usando o Git no terminal:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/IsaquePemasi/GeekHub.git
 ```
 
 ### Passo 3: Abrir o Projeto
@@ -51,7 +51,7 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 Navegue até o diretório clonado e abra o projeto usando o Visual Studio ou o Visual Studio Code:
 
 ```bash
-cd seu-repositorio
+cd GeekHub
 code .   # se estiver usando o Visual Studio Code
 ```
 
