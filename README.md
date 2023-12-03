@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="##Sobre o Projeto ">Sobre</a> &#xa0; | &#xa0;  
-  <a href="Vídeo_Apresentação_do_Projeto">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#vídeo-apresentação-do-projeto">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
   <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
