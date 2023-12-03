@@ -1,4 +1,4 @@
-# GeekHub
+<h1 align="center">GeekHub</h1>
 
 <p align="center">
   <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/IsaquePemasi/GeekHub?color=56BEB8">
@@ -19,21 +19,21 @@
   <a href="#autor" target="_blank">Autor</a>
 </p>
 <h2 align="center">Sobre o Projeto</h2>
-<!-- ## Sobre o Projeto  -->
+
 - O GeekHub faz parte de um conjunto de três projetos, desenvolvidos para a avaliação final da 5ª Academia de .NET. O projeto Final consiste de três aplicações (Front-End, Back-End e IA, para fazer conexão com ChatGPT e Gerador de imagens) que trabalham em conjunto, neste repositório encontra-se a parte do Front-End do Projeto, feita com Blazor WebAssembly.
 
 - Neste projeto, você pode cadastrar, remover e editar novos mangás e/ou HQs, que apresenta dados como título, autor, descrição, editora, publicação, formato, número de páginas, data de publicação, origem, cor, preço, estoque, categoria e imagem. Você também pode catalogar mangás e/ou HQs, pelas suas categorias. Se você é um amante da cultura Geek e deseja catalogar/gerenciar suas próprias HQs/mangás em nosso GeekHub, basta criar uma conta utilizando seu e-mail e senha para acessar a área de cadastrar e catalogar mangás e/ou HQs.</br>
+<h2 align="center">Vídeo Apresentação do Projeto</h2>
 
-## Vídeo Apresentação do Projeto
 - [Apresentação do Projeto]()
+<h2 align="center">Links para os outros projetos</h2>
 
-## Links para os outros projetos
 [Back-End (API)](https://github.com/IsaquePemasi/GeekHubApi)
 </br>
 [IAs](https://github.com/IsaquePemasi/GeekHubIA)
+<h2 align="center">Ferramentas e padrões de desenvolvimento utilizados
+- C#</h2>
 
-## Ferramentas e padrões de desenvolvimento utilizados
-- C#
 - HTML5
 - CSS3
 - jQuery
@@ -47,8 +47,7 @@
 - Integração com o Back-End
 - Consumo de API
 - Consumo de IAs
-
-## Como Reproduzir
+<h2 align="center">Como Reproduzir</h2>
 
 ### Passo 1: Instalar as Ferramentas Necessárias
 
