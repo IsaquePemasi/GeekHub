@@ -4,9 +4,8 @@
     "\\GeekHub",
     "\\GeekHub\\BlazorMangas",
     "\\GeekHub\\BlazorMangas\\Pages",
-    "\\GeekHub\\BlazorMangas\\Pages\\Contato",
-    "\\GeekHub\\BlazorMangas\\Shared"
+    "\\GeekHub\\BlazorMangas\\Pages\\Contato"
   ],
-  "SelectedNode": "\\GeekHub\\BlazorMangas\\Pages\\Contato\\Contato.razor",
+  "SelectedNode": "\\GeekHub\\BlazorMangas\\Pages\\Index.razor",
   "PreviewInSolutionExplorer": false
 }

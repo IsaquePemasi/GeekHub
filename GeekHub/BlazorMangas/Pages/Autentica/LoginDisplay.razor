@@ -1,7 +1,7 @@
 ﻿@using System.Security.Claims;
 <AuthorizeView>
     <Authorized>
-        @context.User.Identity.Name
+        @* @context.User.Identity.Name *@
         <a href="LogOut" style="color:white;background-color:#0C2262;border-radius:15px;">Logout</a>
     </Authorized>
     <NotAuthorized>
