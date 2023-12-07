@@ -3,9 +3,8 @@
     "",
     "\\GeekHub",
     "\\GeekHub\\BlazorMangas",
-    "\\GeekHub\\BlazorMangas\\wwwroot",
-    "\\GeekHub\\BlazorMangas\\wwwroot\\css"
+    "\\GeekHub\\BlazorMangas\\Shared"
   ],
-  "SelectedNode": "\\GeekHub\\BlazorMangas\\wwwroot\\css\\app.css",
+  "SelectedNode": "\\GeekHub\\BlazorMangas\\Shared\\MainLayout.razor",
   "PreviewInSolutionExplorer": false
 }
