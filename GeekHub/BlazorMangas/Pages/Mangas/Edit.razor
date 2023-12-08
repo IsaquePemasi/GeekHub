@@ -1,6 +1,8 @@
 ﻿@page "/manga/edit/{mangaid:int}"
 @inject IMangaService _mangaService
 @inject NavigationManager NavigationManager
+<PageTitle>Editar</PageTitle>
+
 
 <MangaForm Manga="@Manga" OnValidSubmit="EditarManga"
            ButtonTextCancelar="Cancelar" ButtonTextSubmit="Salvar">
