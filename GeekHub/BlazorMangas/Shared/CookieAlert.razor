@@ -1,0 +1,16 @@
+﻿@if (!cookieAceito)
+{
+    <div class="cookie-alert" >
+        <p>Este site usa cookies. Ao continuar a usar este site, você concorda com o uso de cookies.<a href="politicas" style="text-decoration: none;"> Saiba mais</a> </p>
+        <button @onclick="AceitarCookies">Aceitar</button>
+    </div>
+}
+
+@code {
+    private bool cookieAceito = false;
+
+    private void AceitarCookies()
+    {
+        cookieAceito = true;
+    }
+}
