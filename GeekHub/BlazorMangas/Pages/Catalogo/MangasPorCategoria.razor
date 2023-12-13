@@ -16,7 +16,8 @@ else if (MensagemErro != null)
     <br />
     <img src="/stop-anime.gif" style="margin: auto; display: block;" />
     <br />
-    <Rodape />
+    
+
 }
 else
 {
@@ -27,28 +28,8 @@ else
         <div class="row mt-6">
             <ExibirMangas Mangas="@MangasDto"></ExibirMangas>
         </div>
-        <footer class="container">
-            <hr class="featurette-divider">
-            <div style="display:flex;">
-                <p>
-                    © GeekHub - 2024 <br>👨‍💻 Feito por <a href="https://isaquepemasi.vercel.app/" style="text-decoration: none;">
-                        Isaque
-                    </a>
-                    <div style="margin-left:90px;">
-                        <a href="" style="text-decoration: none;">Parceiros</a>
-                    </div>
-                    <div style="margin-left:90px;">
-                        <a href="" style="text-decoration: none;">FAQs</a>
-                    </div>
-                    <div style="margin-left:90px;">
-                        <a href="contato" style="text-decoration: none;">Contato</a>
-                    </div>
-                    <div style="margin-left:90px;">
-                        <a href="" style="text-decoration: none;">Políticas de cookies & privacidade</a>
-                    </div>
-                </p>
-            </div>
-        </footer>
+        <ChangeBackgroundColor />
+        <Rodape />
     }
 
 }
@@ -84,6 +65,7 @@ else
         catch (Exception ex)
         {
             MensagemErro = "Categoria não encontrada";
+
         }
     }
 }

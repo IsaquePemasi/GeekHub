@@ -3,7 +3,7 @@
 @inject IAuthService AuthService
 @inject NavigationManager NavigationManager
 <div class="text-center">
-<img class="mb-4" src="./icon-192.png" width="140" height="140" alt="logo GeekHub">
+<img class="mb-4" src="./icon-192-remove.png" width="140" height="140" alt="logo GeekHub">
     <h1>Fazer login</h1>
 </div>
 @if (ShowErrors)
@@ -19,21 +19,21 @@
             <ValidationSummary />
 
             <div class="form-group mt-2">
-                <label for="email">Email</label>
-                <InputText Id="email" Class="form-control" @bind-Value="loginModel.Email" />
+                <label for="email" >Email</label>
+                <InputText Id="email" Class="form-control" @bind-Value="loginModel.Email" placeholder="Digite seu email"/>
                 <ValidationMessage For="@(() => loginModel.Email)" />
             </div>
             <div class="form-group mt-2">
                 <label for="password">Password</label>
                 <InputText Id="password" type="password" Class="form-control"
-                @bind-Value="loginModel.Password" />
+                           @bind-Value="loginModel.Password" placeholder="Digite sua senha" />
                 <ValidationMessage For="@(() => loginModel.Password)" />
             </div>
             <button type="submit" class="btn btn-primary mt-2">Enviar</button>
         </EditForm>
     </div>
 </div>
-
+<ChangeBackgroundColor />
 <Rodape />
 
 @code {
