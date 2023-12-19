@@ -28,11 +28,11 @@
 - [Apresentação do Projeto]()
 <h2 align="center">Links para os outros projetos</h2>
 
-- [Back-End (API)](https://github.com/IsaquePemasi/GeekHubApi)
+[Back-End (API)](https://github.com/IsaquePemasi/GeekHubApi)
 </br>
-- [IAs](https://github.com/IsaquePemasi/GeekHubIA)
-<h2 align="center">Ferramentas e padrões de desenvolvimento utilizados</h2>
-
+[IAs](https://github.com/IsaquePemasi/GeekHubIA)
+<h2 align="center">Ferramentas e padrões de desenvolvimento utilizados
+</h2>
 - C#
 - HTML5
 - CSS3
@@ -43,6 +43,7 @@
 - Microsoft ASP.NET
 - FormSubmit
 - Versionamento de Código com Git e Github
+- 
 - Consumo de API
 - Consumo de IAs
 <h2 align="center">Como Reproduzir</h2>
