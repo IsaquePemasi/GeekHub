@@ -1,7 +1,8 @@
 ﻿@page "/fileuploader"
 @inject IFileUploadService _fileUploadService;
 <PageTitle>Enviar arquivos</PageTitle>
-
+<img src="/imagens.gif" style="width: 100%;border-radius:20px;" />
+<hr class="featurette-divider">
 
 <h3>Enviar Arquivos para o servidor</h3>
 
@@ -49,7 +50,10 @@
         </div>
     </div>
 }
+
 <ChangeBackgroundColor />
+<Rodape />
+
 @code {
     private int numeroMaximoArquivos = 3;
     private long tamanhoMaximoArquivo = long.MaxValue;
