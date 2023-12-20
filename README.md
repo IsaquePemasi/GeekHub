@@ -40,8 +40,9 @@
 - Bootstrap
 - Blazor Web Assembly
 - Dotnet 7
-- Microsoft ASP.NET
 - FormSubmit
+- Token JWT
+- CORS
 - Versionamento de Código com Git e Github
 - Consumo de API
 - Consumo de IAs
