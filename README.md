@@ -25,7 +25,7 @@
 - Neste projeto, você pode cadastrar, remover e editar novos mangás e/ou HQs, que apresenta dados como título, autor, descrição, editora, publicação, formato, número de páginas, data de publicação, origem, cor, preço, estoque, categoria e imagem. Você também pode catalogar mangás e/ou HQs, pelas suas categorias. Se você é um amante da cultura Geek e deseja catalogar/gerenciar suas próprias HQs/mangás em nosso GeekHub, basta criar uma conta utilizando seu e-mail e senha para acessar a área de cadastrar e catalogar mangás e/ou HQs.</br>
 <h2 align="center">Vídeo Apresentação do Projeto</h2>
 
-- [Apresentação do Projeto]()
+- [Apresentação do Projeto](https://www.youtube.com/watch?v=pIrGpT4Xtdo)
 <h2 align="center">Links para os outros projetos</h2>
 
 [Back-End (API)](https://github.com/IsaquePemasi/GeekHubApi)
